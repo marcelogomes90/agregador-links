@@ -21,7 +21,7 @@ function Buttons() {
                     <Texto>Instagram</Texto>
                 </DivButton>
             </Ancora>
-            <Ancora href="https://web.whatsapp.com/send/?phone=5581985748550&text&type=phone_number&app_absent=0s" target="_blank">
+            <Ancora href="wa.me/5581985748550" target="_blank">
                 <DivButton>
                     <DivIcon>
                         <SocialIcon network="whatsapp" style={{ height: 34, width: 34 }} />
