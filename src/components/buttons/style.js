@@ -30,7 +30,7 @@ export const DivButton = styled.div`
 
 export const DivIcon = styled.div`
     position: relative;
-    left: -85px;
+    left: -100px;
 `
 
 export const Ancora = styled.a`
@@ -43,4 +43,5 @@ export const Texto = styled.p`
     width: 100px;
     text-align: center;
     line-height: 120%;
+    margin-left: -35px;
 `
