@@ -4,13 +4,13 @@ export const DivButton = styled.div`
     margin-top: 14px;
     width: 330px;
     height: 50px;
-    background-color: #eeeee4;
+    background-color: rgba(238, 238, 228, 0.7);
     line-height: 50px;
     border-radius: 14px;
-    cursor: pointer;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    transition: all 0.2s ease-out;
 
     &:hover {
         width: 340px;
